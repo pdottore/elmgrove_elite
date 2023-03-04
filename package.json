@@ -2,7 +2,7 @@
   "name": "gym-typescript",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://pdottore.github.io/elmgrove_elite",
+  "homepage": "https://pdottore.github.io/elmgrove_elite/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
